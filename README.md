@@ -85,13 +85,6 @@ Technical Documentation for MemoryVault Project:  Architecture Overview: The Mem
 6. localhost: 8083/new - Registers a new user localhost: 8083/login - login a new user                
 7. localhost: 8083/registration - Registering a new user   
 
-#### user account
-*annette@gmail.com
- Password  auca@2020
-
-#### admin account
-*admin1@gmail.com
- Password  admin1
 
 # Conclusion:
 In conclusion, the MemoryVault application is a simple and intuitive note-taking application that provides basic CRUD functionality for stories. It is built using modern web development technologies such as java, spring framework and PostgresDB. The application is designed to be scalable and extensible, allowing for easy addition of new features and enhancements.
